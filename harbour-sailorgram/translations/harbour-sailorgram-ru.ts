@@ -9,39 +9,39 @@
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщить о проблеме</translation>
     </message>
     <message>
         <source>About SailorGram</source>
-        <translation type="unfinished"></translation>
+        <translation>О SailorGram</translation>
     </message>
     <message>
         <source>An unofficial Telegram Client for SailfishOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Неофициальный клиент Telegram для SailfishOS</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>SailorGram is distributed under the GPLv3 license</source>
-        <translation type="unfinished"></translation>
+        <translation>SailorGram распространяется по лицензии GPLv3</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчики</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>Third Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Третьи лица</translation>
     </message>
 </context>
 <context>
@@ -63,19 +63,19 @@
     <name>ChatSettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <source>Chat header visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр заголовка чата</translation>
     </message>
     <message>
         <source>Load images automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая загрузка изображений</translation>
     </message>
     <message>
         <source>Bubbles visible</source>
@@ -91,22 +91,22 @@
     </message>
     <message>
         <source>Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиатура</translation>
     </message>
     <message>
         <source>Send Messages by pressing Return Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить сообщения нажатием клавиши возврат</translation>
     </message>
     <message>
         <source>Use default emoji set</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать набор emoji по умолчанию</translation>
     </message>
 </context>
 <context>
     <name>ContactsPage</name>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты</translation>
     </message>
 </context>
 <context>
@@ -114,46 +114,46 @@
     <message>
         <source>Unread
 message(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключён</translation>
     </message>
     <message>
         <source>Recent chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Недавние чаты</translation>
     </message>
     <message>
         <source>Syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронизировано</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключён</translation>
     </message>
 </context>
 <context>
     <name>DaemonSettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Keep running</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжать работать</translation>
     </message>
     <message>
         <source>SailorGram keeps running in background even when closed</source>
-        <translation type="unfinished"></translation>
+        <translation>SailorGram продолжает работать в фоновом режиме, даже когда закрыт</translation>
     </message>
     <message>
         <source>Autostart</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск</translation>
     </message>
     <message>
         <source>SailorGram starts automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>SailorGram запускается автоматически</translation>
     </message>
 </context>
 <context>
